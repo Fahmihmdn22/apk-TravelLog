@@ -75,5 +75,5 @@ Project ini dibuat untuk keperluan akademik (UAS / Tugas Akhir Mata Kuliah) dan 
 ---
 
 <div align="center">
-Made with ❤️ using Flutter
+Made with using Flutter
 </div>
