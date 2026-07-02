@@ -65,7 +65,7 @@ ifconfig      # macOS / Linux
 
 ## 🧭 Roadmap
 - [ ] Autentikasi user (login/register)
-- [ ] Export laporan pengeluaran ke PDF
+- [ ] Export laporan pengeluaran ke PDF (comming soon)
 - [ ] Filter catatan berdasarkan tanggal
 - [ ] Mode offline dengan local storage
 
